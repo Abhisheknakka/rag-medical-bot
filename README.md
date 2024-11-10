@@ -42,13 +42,14 @@ GROQ_API_KEY='gsk_'
 ```
 ## Project Structure
 
-
+```
 ├── main_app.py                  # Main application script for Streamlit interface
 ├── document_analysis.py         # document analysis
 ├── text_generation.py           # Text generation and response handling functions
 ├── requirements.txt             # Python dependencies
 ├── .env                         # Environment variables (not included in repo)
 └── README.md                    # Project documentation
+```
 
 ## Dataset for llm integration
 We fetched  directly  from hugging face
