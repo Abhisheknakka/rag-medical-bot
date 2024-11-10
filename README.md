@@ -112,6 +112,11 @@ SYMPTOM_CATEGORIES = {
 - MongoDB URI
 - API keys for the supported LLM providers (e.g., Groq, OpenAI)
 
+insert images
+
+![Screenshot 2024-11-10 123045](https://github.com/user-attachments/assets/daa03fbd-c1ed-49e1-8d87-b7c5cfa44651)
+
+
 
 ### ACknowledgment
 
