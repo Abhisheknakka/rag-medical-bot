@@ -1,5 +1,7 @@
 # Built for TRENT HACK 2024
 [Watch the demo on YouTube](https://www.youtube.com/watch?v=3up95NvxLog)
+
+Devpost submission
 [Devpost Submission](https://devpost.com/software/enhanced-medical-rag-bot)
 # Medical AI Assistant with Document Analysis and LLM Integration
 
