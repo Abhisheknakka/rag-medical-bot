@@ -29,7 +29,7 @@ def initialize_llm_client(provider: str):
 
 def generate_response(query: str, client, model_name: str) -> str:
     """Generate response using the selected LLM provider with enhanced formatting"""
-    system_prompt = "You are a medical AI assistant. Keep it short and sweet and provide human touch to the responses. Provide accurate, helpful medical information. Explain what the prescription is saying and why and how it is useful."
+    system_prompt = "You are a medical AI assistant. Keep it short and sweet in bullet points and provide human touch to the responses.Provide accurate, helpful medical information. Explain what the prescription is saying and why and how it is useful."
 
     try:
         messages = [
@@ -119,3 +119,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+>>>>>>> f4a7690 (third push)

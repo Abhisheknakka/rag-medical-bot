@@ -1,0 +1,7 @@
+streamlit
+azure-ai-formrecognizer
+azure-core
+python-dotenv
+pandas
+sentence-transformers
+pymongo

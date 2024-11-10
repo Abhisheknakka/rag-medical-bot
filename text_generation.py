@@ -230,6 +230,7 @@ def text_generation_section():
         show_tips = st.checkbox("Show Health Tips", value=True)
         enable_emergency = st.checkbox("Enable Emergency Alerts", value=True)
     
+    '''
     # Provider selection
     provider = st.selectbox(
         "Select LLM Provider:",
@@ -237,7 +238,8 @@ def text_generation_section():
         index=["Groq", "OpenAI", "NVIDIA"].index(st.session_state.provider)
     )
     st.session_state.provider = provider
-    
+    '''
+    provider = "Groq"
     # Query input
     query = st.text_input("", placeholder="Enter your medical query here...")
     
