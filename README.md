@@ -28,7 +28,7 @@ replaae your .env file with you creds
 
 ```
 AZURE_FORM_RECOGNIZER_ENDPOINT="https://trenthackdocuments.cognitiveservices.azure.com/"
-AZURE_FORM_RECOGNIZER_KEY="6GApCuYszMllXR1FVjKzZHFTEbYtr3ILuJ0YIcNlr6DvdkWZbTvPJQQJ99AKACYeBjFXJ3w3AAALACOG9rrZ"
+AZURE_FORM_RECOGNIZER_KEY="6GApC"
 # MONGO DB
 API_HOST=groq
 
