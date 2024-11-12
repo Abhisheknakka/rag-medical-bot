@@ -24,7 +24,7 @@ Also install required libraries from requirement.txt
 pip install -r requirements.txt
 ```
 
-replaae your .env file with you creds
+replace your .env file with you creds
 
 ```
 AZURE_FORM_RECOGNIZER_ENDPOINT="https://trenthackdocuments.cognitiveservices.azure.com/"
@@ -122,7 +122,7 @@ insert images
 ![Screenshot 2024-11-10 093233](https://github.com/user-attachments/assets/bcc66b11-b8fa-459b-8f37-b1e3d3739463)
 
 
-### ACknowledgment
+### Acknowledgment
 
 Azure AI and Form Recognizer team
 OpenAI, Groq, and NVIDIA for LLM models
