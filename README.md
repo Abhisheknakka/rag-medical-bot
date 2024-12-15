@@ -6,8 +6,8 @@ This project leverages Azure Form Recognizer, MongoDB, and multiple LLM provider
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/medical-ai-assistant.git
-   cd medical-ai-assistant
+   git clone https://github.com/Abhisheknakka/rag-medical-bot.git
+   cd rag-medical-bot
 
 
 ## Running the application
